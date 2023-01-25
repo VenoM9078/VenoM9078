@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muhammad Roushan</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h1 align="center">Hello, I'm Muhammad Roushan</h1>
+<h3 align="center">With a passion for creating visually stunning and user-friendly websites, I bring a wealth of experience to every project.</h3>
+🔭 I am currently working on Noxions, where I am responsible for building cutting-edge web solutions.
 
-- 🔭 I’m currently working on **Noxions**
+🌱 I am always looking to improve my skills and stay current in the industry, currently, I am learning VueJS & SolidJS.
 
-- 🌱 I’m currently learning **VueJS & SolidJS**
+💬 I have a proven track record in React, Laravel & Livewire, and I am confident in my ability to deliver high-quality work.
 
-- 💬 Ask me about **React, Laravel & Livewire**
+📫 If you're looking for a web developer who can bring your online vision to life, don't hesitate to reach out to me at roushan.venom1@gmail.com.
 
-- 📫 How to reach me **roushan.venom1@gmail.com**
-
-- ⚡ Fun fact **I try to manage expectations.**
+⚡ Fun fact: I always strive to manage expectations and deliver results that exceed them 🚀. I am always looking for new ways to push the boundaries of what's possible.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
