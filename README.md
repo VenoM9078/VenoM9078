@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Roushan 🙌</h1>
 
-- 🔭 Creator of <a href="tailsurge.vercel.app" target="_blank" rel="noreferrer">TailSurge</a> and <a href="sandapi.com" target="_blank" rel="noreferrer">SandAPI</a>.
+- 🔭 Creator of <a href="https://tailsurge.vercel.app" target="_blank" rel="noreferrer">TailSurge</a> and <a href="https://sandapi.com" target="_blank" rel="noreferrer">SandAPI</a>.
 
 - 🌱 Learning VueJS.
 
