@@ -1,12 +1,10 @@
 <h1 align="center">Muhammad Roushan 🙌</h1>
 
-- 🔭 Employed by Noxions - making creative web solutions.
+- 🔭 Creator of <a href="tailsurge.vercel.app">TailSurge</a> and <a href="sandapi.com">SandAPI</a>.
 
 - 🌱 Learning VueJS.
 
 - 💬 Hands-on experience with Livewire, React & Laravel
-
-- 📫 If you're looking for a web developer who can bring your online vision to life, don't hesitate to reach out to me at roushan.venom1@gmail.com.
 
 
 <h3 align="left">Languages and Tools:</h3>
