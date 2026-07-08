@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 Creator of <a href="https://gradienty.codes" target="_blank" rel="noreferrer">Gradienty</a> (40K+ monthly users), <a href="https://sandapi.com" target="_blank" rel="noreferrer">SandAPI</a>, and 30+ AI-powered SaaS platforms including Success 369, Fairytail, Fundreef, and more.
+- 🔭 Creator of <a href="https://gradientdeck.com" target="_blank" rel="noreferrer">GradientDeck</a> (40K+ monthly users), <a href="https://iris.thisisroushan.com" target="_blank" rel="noreferrer">Iris</a>, and 30+ AI-powered SaaS platforms including Success 369, Fairytail, Fundreef, and more.
 
 - 💪 **Indie Maker & SaaS Enthusiast** - Shipped 50+ full-stack applications for startups and established companies
 
