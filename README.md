@@ -1,12 +1,12 @@
 <h1 align="center">Muhammad Roushan 🙌</h1>
 
 <p align="center">
-  <strong>AI SaaS Developer</strong> | Building production-grade platforms with Next.js & Python
+  <strong>AI Forward Engineer </strong> | Building production-grade platforms with Next.js & Python
 </p>
 
 ---
 
-- 🔭 Creator of <a href="https://gradientdeck.com" target="_blank" rel="noreferrer">GradientDeck</a> (40K+ monthly users), <a href="https://iris.thisisroushan.com" target="_blank" rel="noreferrer">Iris</a>, and 30+ AI-powered SaaS platforms including Success 369, Fairytail, Fundreef, and more.
+- 🔭 Creator of <a href="https://gradientdeck.com" target="_blank" rel="noreferrer">GradientDeck</a> (40K+ monthly users), <a href="https://iris.thisisroushan.com" target="_blank" rel="noreferrer">Iris</a>, <a href="https://ui.gradientdeck.com" target="_blank" rel="noreferrer">GradientDeck UI</a> and 30+ AI-powered SaaS platforms including Success 369, Fairytail, Fundreef, and more.
 
 - 💪 **Indie Maker & SaaS Enthusiast** - Shipped 50+ full-stack applications for startups and established companies
 
