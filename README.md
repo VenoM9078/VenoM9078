@@ -1,37 +1,34 @@
-<h1 align="center">Muhammad Roushan 🙌</h1>
+# Muhammad Roushan
 
-<p align="center">
-  <strong>AI Forward Engineer </strong> | Building production-grade platforms with Next.js & Python
-</p>
+Full-stack product engineer. I build production software, from the interface people use to the systems that make it work.
 
----
+[Portfolio](https://thisisroushan.com)
 
-- 🔭 Creator of <a href="https://gradientdeck.com" target="_blank" rel="noreferrer">GradientDeck</a> (40K+ monthly users), <a href="https://iris.thisisroushan.com" target="_blank" rel="noreferrer">Iris</a>, <a href="https://ui.gradientdeck.com" target="_blank" rel="noreferrer">GradientDeck UI</a> and 30+ AI-powered SaaS platforms including Success 369, Fairytail, Fundreef, and more.
+For more than six years I've worked remotely with founders, startups and established teams, and I've built for more than 50 clients with Top Rated Plus status on Upwork. I'm based in Lahore, Pakistan, and available for remote freelance and contract work.
 
-- 💪 **Indie Maker & SaaS Enthusiast** - Shipped 50+ full-stack applications for startups and established companies
+## What I work on
 
-- 🚀 **AI/ML Specialist** - Building intelligent systems with conversational AI, video generation, RAG pipelines, and real-time learning platforms
+- **SaaS platforms**: multi-tenancy, billing, role-based workflows and admin tooling
+- **AI and document systems**: ingestion, retrieval with citations, structured extraction, voice and generation pipelines
+- **Backend systems**: APIs, queues, caching, integrations and realtime coordination
+- **Product interfaces**: data-heavy web apps, mobile apps and offline-first PWAs
 
-- 🌱 Currently exploring advanced AI integrations, vector databases, and scalable multi-tenant architectures
+## Products I build and run
 
-- 💬 Hands-on experience with **Next.js**, **React**, **Python**, **Laravel**, **Livewire**, **TypeScript**, and modern AI/ML technologies
+- **[GradientDeck](https://gradientdeck.com)**: free tools for web developers, covering gradients, palettes, shadows, patterns and animations.
+- **[GradientDeck UI](https://ui.gradientdeck.com)**: DESIGN.md files taken from real websites, so coding agents can follow a site's colors, type and components.
+- **[GradientDeck Skill](https://github.com/VenoM9078/gradientdeck-skill)**: an agent skill that gives coding agents design judgment. Install with `npx gradientdeck install`.
+- **[Iris](https://iris.thisisroushan.com)**: a privacy-first desktop assistant built with Tauri and Rust that answers questions about what's on your screen.
 
-- 🎯 Focused on **real-time dashboards**, **AI integrations**, and **scalable architectures** that actually perform
+## Open source
 
----
+- **[tailsurge](https://github.com/VenoM9078/tailsurge)**: a Tailwind layout generator
+- **[htmltojsx](https://github.com/VenoM9078/htmltojsx)**: converts HTML to JSX, built with Next.js
+- **[forgeforms](https://github.com/VenoM9078/forgeforms)**: a React package for forms
 
-### 🎯 What I Build:
+## Tools I use
 
-- **AI-Powered SaaS Platforms** - Video generation, conversational AI, learning assistants
-- **Enterprise Solutions** - Multi-tenant SaaS, DNS management, healthcare platforms
-- **Developer Tools** - API builders, form builders, design tools
-- **Real-Time Applications** - WebSocket-powered dashboards, live collaboration tools
-- **PWAs & Offline-First Apps** - IndexedDB, service workers, seamless sync
-
----
-
-<p align="center">
-  <a href="https://github.com/VenoM9078">
-    <img src="https://img.shields.io/github/followers/VenoM9078?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
+- **Product**: React, Next.js, TypeScript, React Native, IndexedDB
+- **Backend**: Laravel and PHP, Python, Node.js
+- **AI and retrieval**: RAG, vector databases, multimodal APIs
+- **Data and delivery**: PostgreSQL, MySQL, Redis, AWS, Vercel, Coolify, CI/CD
